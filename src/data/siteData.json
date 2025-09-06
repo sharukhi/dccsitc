@@ -48,6 +48,16 @@
   "members": {
     "advisors": [
       {
+        "name": "Md. Shamiul Alam",
+        "batch": "",
+        "designation": "Moderator"
+      },
+      {
+        "name": "Zahidul Islam",
+        "batch": "",
+        "designation": "Co-Moderator"
+      },
+      {
         "name": "Fathin Hasnat Siam",
         "batch": "HSC-21",
         "designation": "Advisor"
@@ -190,19 +200,19 @@
         "designation": "Social Media Manager"
       },
       {
-        "name": "Mahir Ridha",
-        "batch": "HSC-26",
-        "designation": "Project Coordinator"
-      },
-      {
         "name": "Sara Labiba",
         "batch": "HSC-26",
         "designation": "HR Coordinator"
       },
-      {
+      { 
         "name": "Samin Arham",
         "batch": "HSC-26",
         "designation": "Graphics Designer"
+      },
+      { 
+        "name": "Wesley Deep Biswas",
+        "batch": "HSC-26",
+        "designation": "Photographer"
       },
       {
         "name": "Marvia Meghomi",
@@ -216,11 +226,6 @@
       },
       {
         "name": "MD Safayet Rahman",
-        "batch": "HSC-26",
-        "designation": "Monitor"
-      },
-      {
-        "name": "Tanim Talukder",
         "batch": "HSC-26",
         "designation": "Monitor"
       },
