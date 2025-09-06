@@ -81,7 +81,7 @@ const Members = () => {
           {/* Panel Members Section */}
           <section>
             <h2 className="text-3xl font-bold text-foreground mb-8 text-center">
-              Panel Members
+              Panel Members & Monitors 
             </h2>
             <div className="bg-card rounded-xl border border-black/20 overflow-hidden">
               <Table>
