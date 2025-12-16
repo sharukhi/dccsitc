@@ -1,0 +1,14 @@
+{
+  "notices": [
+    {
+      "id": 1,
+      "slug": "wip",
+      "title": "Work in Progress",
+      "summary": "This page will be updated soon.",
+      "content": "<p>Stay tuned for exciting updates!</p>",
+      "date": "December 16, 2025",
+      "isPinned": true,
+      "category": "Notice"
+    }
+  ]
+}

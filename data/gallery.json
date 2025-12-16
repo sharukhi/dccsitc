@@ -1,0 +1,64 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "title": "Hackathon 2024",
+      "slug": "hackathon-2024",
+      "cover": "/hackathon-team-coding.jpg",
+      "photoCount": 24,
+      "photos": [
+        "/hackathon-participants-coding.jpg",
+        "/hackathon-judges-and-winners.jpg",
+        "/hackathon-awards-ceremony.jpg",
+        "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Workshop Series",
+      "slug": "workshop-series",
+      "cover": "/workshop-classroom-training.jpg",
+      "photoCount": 18,
+      "photos": [
+        "/web-development-workshop.png",
+        "/instructor-teaching-programming.jpg",
+        "/students-learning-in-workshop.jpg",
+        "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Club Meetups",
+      "slug": "club-meetups",
+      "cover": "/club-members-gathering.jpg",
+      "photoCount": 32,
+      "photos": [
+        "/team-meeting-discussion.png",
+        "/club-members-networking.jpg",
+        "/members-socializing.jpg",
+        "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Tech Seminar",
+      "slug": "tech-seminar",
+      "cover": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=300&fit=crop",
+      "photoCount": 20,
+      "photos": [
+        "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=600&fit=crop"
+      ]
+    }
+  ]
+}

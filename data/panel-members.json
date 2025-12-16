@@ -1,0 +1,213 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "name": "Md. Shamiul Alam",
+      "slug": "md-shamiul-alam",
+      "designation": "Moderator",
+      "photo": "/panel/shamim.webp",
+      "contact": "sashamim.dcc@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Zahidul Islam",
+      "slug": "zahidul-islam",
+      "designation": "Co-Moderator",
+      "photo": "/panel/zahid.webp",
+      "contact": "null"
+    },
+    {
+      "id": 3,
+      "name": "Fathin Hasnat Siam",
+      "slug": "fathin-hasnat-siam",
+      "designation": "Advisor (HSC-21)",
+      "photo": "/panel/siam.webp",
+      "contact": "fathin@bsrs.com.bd"
+    },
+    {
+      "id": 4,
+      "name": "Mahir Shahriar Punno",
+      "slug": "mahir-shahriar-punno",
+      "designation": "Advisor (HSC-21)",
+      "photo": "/panel/punno.webp",
+      "contact": "mahir.punno.232@northsouth.edu"
+    },
+    {
+      "id": 5,
+      "name": "Mitul Joarder",
+      "slug": "mitul-joarder",
+      "designation": "Advisor (HSC-21)",
+      "photo": "/panel/mitul.webp",
+      "contact": "null"
+    },
+    {
+      "id": 6,
+      "name": "Muslehuddin Shafi",
+      "slug": "muslehuddin-shafi",
+      "designation": "Advisor (HSC-24)",
+      "photo": "/panel/shafi.webp",
+      "contact": "shafi@etherealbd.com"
+    },
+    {
+      "id": 7,
+      "name": "Nahin Ahmed",
+      "slug": "nahin-ahmed",
+      "designation": "Advisor (HSC-24)",
+      "photo": "/panel/nahin.webp",
+      "contact": "nahinahmd@proton.me"
+    },
+    {
+      "id": 8,
+      "name": "Kazi Md. Al-Amin",
+      "slug": "kazi-md-al-amin",
+      "designation": "President (HSC-25)",
+      "photo": "/panel/al-amin.webp",
+      "contact": "kmdalamin0508@gmail.com"
+    },
+    {
+      "id": 9,
+      "name": "Rahat Kamal Rudra",
+      "slug": "rahat-kamal-rudra",
+      "designation": "Vice President (HSC-25)",
+      "photo": "/panel/rudra.webp",
+      "contact": "rudra86687@gmail.com"
+    },
+    {
+      "id": 10,
+      "name": "Saif Islam",
+      "slug": "saif-islam",
+      "designation": "General Secretary (HSC-25)",
+      "photo": "/panel/saif.webp",
+      "contact": "uptome964@gmail.com"
+    },
+    {
+      "id": 11,
+      "name": "Farah Anjum",
+      "slug": "farah-anjum",
+      "designation": "Joint Secretary (HSC-25)",
+      "photo": "/panel/farah.webp",
+      "contact": "xiondrea555@gmail.com"
+    },
+    {
+      "id": 12,
+      "name": "Nazmul Sakib",
+      "slug": "nazmul-sakib",
+      "designation": "Organization Secretary & Treasurer (HSC-25)",
+      "photo": "/panel/nazmul.webp",
+      "contact": "nazmul18sakib@gmail.com"
+    },
+    {
+      "id": 13,
+      "name": "Fahim Hasan",
+      "slug": "fahim-hasan",
+      "designation": "Event Coordinator (HSC-25)",
+      "photo": "/panel/fahim.webp",
+      "contact": "fahimsohan75@gmail.com"
+    },
+    {
+      "id": 14,
+      "name": "Nawshin Tarannum",
+      "slug": "nawshin-tarannum",
+      "designation": "Public Relations Secretary (HSC-25)",
+      "photo": "/panel/nawshin.webp",
+      "contact": "n05tarannum@gmail.com"
+    },
+    {
+      "id": 15,
+      "name": "Tahsin Rahman Shefat",
+      "slug": "tahsin-rahman-shefat",
+      "designation": "Executive (HSC-26)",
+      "photo": "/panel/shefat.webp",
+      "contact": "tahsinrahmanshefat@gmail.com"
+    },
+    {
+      "id": 16,
+      "name": "Ataullah Sharukhi Rumman",
+      "slug": "ataullah-sharukhi-rumman",
+      "designation": "Sub-Executive (HSC-26)",
+      "photo": "/panel/rumman.webp",
+      "contact": "mail@sharukhi.net"
+    },
+    {
+      "id": 17,
+      "name": "Rifah Tasnia Noboni",
+      "slug": "rifah-tasnia-noboni",
+      "designation": "Social Media Manager (HSC-26)",
+      "photo": "/panel/noboni.webp",
+      "contact": "rifahnoboni10@gmail.com"
+    },
+    {
+      "id": 18,
+      "name": "Sara Labiba",
+      "slug": "sara-labiba",
+      "designation": "HR Coordinator (HSC-26)",
+      "photo": "/panel/sara.webp",
+      "contact": "saralabiba409@gmail.com"
+    },
+    {
+      "id": 19,
+      "name": "Samin Arham",
+      "slug": "samin-arham",
+      "designation": "Graphics Designer (HSC-26)",
+      "photo": "/panel/samin.webp",
+      "contact": "saminarham1830@gmail.com"
+    },
+    {
+      "id": 20,
+      "name": "Wesley Deep Biswas",
+      "slug": "wesley-deep-biswas",
+      "designation": "Photographer (HSC-26)",
+      "photo": "/panel/deep.webp",
+      "contact": "wesleybiswas@gmail.com"
+    },
+    {
+      "id": 21,
+      "name": "Marvia Meghomi",
+      "slug": "marvia-meghomi",
+      "designation": "Digital Coordinator (HSC-26)",
+      "photo": "/panel/meghomi.webp",
+      "contact": "khanamsonya@gmail.com"
+    },
+    {
+      "id": 22,
+      "name": "Faiza Chowdhury",
+      "slug": "faiza-chowdhury",
+      "designation": "Monitor (HSC-26)",
+      "photo": "/panel/faiza.webp",
+      "contact": "chowdhuryfaiza141@gmail.com"
+    },
+    {
+      "id": 23,
+      "name": "Tafhima Faiza",
+      "slug": "tafhima-faiza",
+      "designation": "Monitor (HSC-26)",
+      "photo": "/panel/tafhima.webp",
+      "contact": "faizatafhima14@gmail.com"
+    },
+    {
+      "id": 24,
+      "name": "Md. Arsheel Hossain Mughdho",
+      "slug": "md-arsheel-hossain-mughdho",
+      "designation": "Monitor (HSC-26)",
+      "photo": "/panel/mughdho.webp",
+      "contact": "arsheelmughdho08@gmail.com"
+    },
+    {
+      "id": 25,
+      "name": "Tasnim Hasan Pranti",
+      "slug": "tasnim-hasan-pranti",
+      "designation": "Monitor (HSC-26)",
+      "photo": "/panel/pranti.webp",
+      "contact": "tasnimpranty1@gmail.com"
+    },
+    {
+      "id": 26,
+      "name": "Jannatul Mawa",
+      "slug": "jannatul-mawa",
+      "designation": "Monitor (HSC-26)",
+      "photo": "/panel/mawa.webp",
+      "contact": "mawa8188@gmail.com"
+    }
+  ]
+}
+
