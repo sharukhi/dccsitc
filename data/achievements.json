@@ -2,11 +2,131 @@
   "achievements": [
     {
       "id": 1,
-      "title": "Work in Progress",
-      "description": "This page will be updated soon.",
+      "title": "Riot 6th Creative Carnival",
+      "description": "Achieved 1st Runner-up in the Wall Magazine segment with the project “F1 Cars in a Nutshell” by team BrainDead Inc., highlighting creativity and presentation skills.",
       "icon": "Trophy",
       "category": "Awards",
-      "date": "March 2024"
+      "date": "January 2025"
+    },
+    {
+      "id": 2,
+      "title": "42nd Udayan Science Carnival 2025",
+      "description": "Secured 2nd Runner-up in Wall Magazine with “Aviation in a Nutshell” by team BrainDead Inc. and achieved Champion title in the Programming Contest, showcasing excellence in both creativity and coding.",
+      "icon": "Trophy",
+      "category": "Awards",
+      "date": "2025"
+    },
+    {
+      "id": 3,
+      "title": "18th HGC Festival Del Saber'25",
+      "description": "Won multiple prizes including Champion in Wall Magazine with “F1 Cars in a Nutshell” and 1st Runner-up with “Aviation in a Nutshell”, demonstrating strong teamwork and innovation.",
+      "icon": "Trophy",
+      "category": "Awards",
+      "date": "2025"
+    },
+    {
+      "id": 4,
+      "title": "3rd Annual & 1st National Innovative Carnival 2025",
+      "description": "Achieved 2nd Place in the Programming Marathon (Senior Category), reflecting strong problem-solving and competitive programming skills.",
+      "icon": "Trophy",
+      "category": "Awards",
+      "date": "2025"
+    },
+    {
+      "id": 5,
+      "title": "DCC Intra College CSE Fest",
+      "description": "Secured multiple achievements including 2nd Place in Competitive Programming, Champion in Project Display, and 2nd Runner-up in IT Quiz, highlighting all-round technical excellence.",
+      "icon": "Trophy",
+      "category": "Awards",
+      "date": "2025"
+    },
+    {
+      "id": 6,
+      "title": "NDITC INIT 4.0",
+      "description": "Achieved 1st Runner-up in the Project Display segment at NDITC INIT 4.0, showcasing innovative project presentation and teamwork.",
+      "icon": "Trophy",
+      "category": "Awards",
+      "date": "May 2024"
+    },
+    {
+      "id": 7,
+      "title": "8th GSHS National Science Festival",
+      "description": "Secured Champion titles in Project Display and Sci-Fi Story Writing segments, demonstrating creativity, innovation, and storytelling skills.",
+      "icon": "Trophy",
+      "category": "Awards",
+      "date": "May 2024"
+    },
+    {
+      "id": 8,
+      "title": "1st AKSC National Science Carnival",
+      "description": "Achieved Champion in Wall Magazine and 1st Runner-up in Project Display, highlighting excellence in both creative and technical segments.",
+      "icon": "Trophy",
+      "category": "Awards",
+      "date": "June 2024"
+    },
+    {
+      "id": 9,
+      "title": "National Science and Innovation Carnival",
+      "description": "Won Champion titles in Project Display and Wall Magazine, along with Runner-up positions in Special Game and Science Olympiad segments.",
+      "icon": "Trophy",
+      "category": "Awards",
+      "date": "June 2024"
+    },
+    {
+      "id": 10,
+      "title": "International Mother Language Designing Exhibition",
+      "description": "Achieved Champion in Animation and 2nd Runner-up in Graphics Designing, showcasing creative design and visual storytelling skills.",
+      "icon": "Trophy",
+      "category": "Awards",
+      "date": "February 2024"
+    },
+    {
+      "id": 11,
+      "title": "International Robot Olympiad (IRO)",
+      "description": "Qualified for the National Round in the Creative Category, demonstrating strong robotics innovation and technical capability.",
+      "icon": "Trophy",
+      "category": "Awards",
+      "date": "September 2024"
+    },
+    {
+      "id": 12,
+      "title": "World Robot Olympiad (WRO)",
+      "description": "Reached the National Round in the Future Innovator category, highlighting advanced problem-solving and robotics design skills.",
+      "icon": "Trophy",
+      "category": "Awards",
+      "date": "September 2024"
+    },
+    {
+      "id": 13,
+      "title": "33rd Annual Internal Sports & Cultural Competition",
+      "description": "Achieved Champion title in Project Display, showcasing innovative ideas and effective project presentation.",
+      "icon": "Trophy",
+      "category": "Awards",
+      "date": "October 2024"
+    },
+    {
+      "id": 14,
+      "title": "32nd Annual Internal Sports & Cultural Competition",
+      "description": "Secured 1st Runner-up position in Project Display, reflecting consistency in innovation and presentation skills.",
+      "icon": "Trophy",
+      "category": "Awards",
+      "date": "October 2024"
+    },
+    {
+      "id": 15,
+      "title": "Eastern University Inter-College Programming Contest 2024",
+      "description": "Achieved Champion title and additional top positions in the Programming Contest, demonstrating competitive programming excellence.",
+      "icon": "Trophy",
+      "category": "Awards",
+      "date": "November 2024"
+    },
+    {
+      "id": 16,
+      "title": "Co-Organized BSO Season 3 with BSRS",
+      "description": "Co-organized the Bangladesh Space Olympiad Season 3 Finals with the Bangladesh Space Research Society, contributing to successful event planning and execution at a national level.",
+      "icon": "Handshake",
+      "category": "Organization",
+      "date": "2025"
     }
   ]
 }

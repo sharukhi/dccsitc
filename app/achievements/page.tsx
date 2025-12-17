@@ -59,21 +59,12 @@ export default function Achievements() {
 
     <main className="min-h-screen bg-background">
       <Header />
-      <section className="py-20 bg-gradient-to-b from-card/30 to-background">
 
-     
-        <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-20 text-center">
-          <h1 className="text-5xl sm:text-6xl font-bold mb-4 text-balance">Page Under Maintenance</h1>
-          <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-            We are currently working on updating this page. Please check back soon to see our latest achievements!
-          </p>
-        </div>  
-      </section>
-       {/* Achievements Grid 
+       {/* Achievements Grid */}
       <section className="py-20 bg-gradient-to-b from-card/30 to-background">
         <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h1 className="text-5xl sm:text-6xl font-bold mb-4 text-balance">Our Achievements</h1>
+            <h1 className="text-5xl sm:text-6xl font-bold mb-4 text-balance">Recent Achievements</h1>
             <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
               Celebrating the milestones and successes of DCC Science & IT Club
             </p>
@@ -106,7 +97,7 @@ export default function Achievements() {
           </div>
         </div>
       </section>
-*/}
+
       <Footer />
     </main>
   )
