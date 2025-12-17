@@ -2,12 +2,82 @@
   "notices": [
     {
       "id": 1,
-      "slug": "wip",
-      "title": "Work in Progress",
-      "summary": "This page will be updated soon.",
-      "content": "<p>Stay tuned for exciting updates!</p>",
-      "date": "December 16, 2025",
+      "slug": "freshers-outing-2025",
+      "title": "Notice Regarding Freshers’ Outing 2025",
+      "summary": "DCCSITC is organizing a Freshers’ Outing for the current session.",
+      "content": "**The Dhaka Commerce College Science & IT Club (DCCSITC)** is pleased to inform all members that a *Freshers’ Outing* has been arranged for this session. Interested members, especially freshers, are encouraged to participate.\n\n**Event Details:**\n- **Venue:** Bangladesh Military Museum\n- **Date:** 20 December 2025 (Saturday)\n- **Reporting Time:** 10:00 AM (Approx.)\n- **Cost per Person:** BDT 350/-\n\n**Registration:**\nInterested members must complete the registration form using the link below:\n👉 https://forms.gle/ssARVS3tVCiqz6837\n\nOnly registered participants will be considered. Further instructions will be shared with registered members in due course.\n\nFor queries or assistance, please contact:\n- Ataullah Sharukhi Rumman\n- Rifah Tasnia Noboni\n- Faiza Chowdhury\n\n**Issued by:**\nTahsin Rahman Shefat\n\nContact: +8801308040203",
+      "date": "December 20, 2025",
       "isPinned": true,
+      "category": "Notice"
+    },
+    {
+      "id": 2,
+      "slug": "mandatory-robotics-meeting",
+      "title": "Mandatory Meeting: Robotics Segment",
+      "summary": "Meeting regarding team division and introduction of the Robotics segment.",
+      "content": "A meeting has been scheduled to discuss *team division* and provide an *introduction to the Robotics segment*.\n\n**Meeting Details:**\n- **Date:** 15 December 2025\n- **Time:** 10:00 PM\n\nAll members are **required to attend**, as this meeting is mandatory.\n\n**Issued by:**\nSegment In-Charges, Robotics\n\nDhaka Commerce College Science & IT Club (DCCSITC)",
+      "date": "December 15, 2025",
+      "isPinned": false,
+      "category": "Meeting"
+    },
+    {
+      "id": 3,
+      "slug": "scrapbook-online-meeting",
+      "title": "Online Meeting Notice: Scrapbook Segment",
+      "summary": "Online meeting regarding Scrapbook segment briefing and team division.",
+      "content": "An online meeting has been scheduled to provide a briefing on the *Scrapbook Segment* along with *team division details*.\n\n**Meeting Details:**\n- **Platform:** Google Meet\n- **Date:** 14 December 2025\n- **Time:** 9:00 PM\n\nAll members are requested to join the meeting on time. Active participation is highly appreciated.",
+      "date": "December 14, 2025",
+      "isPinned": false,
+      "category": "Meeting"
+    },
+    {
+      "id": 4,
+      "slug": "new-members-guidelines",
+      "title": "Notice for New Members",
+      "summary": "Guidelines regarding registration and communication platforms for new members.",
+      "content": "New members who have not yet submitted their information may do so on the **Orientation Day**.\n\nIf you have not completed the **online registration**, please visit:\n👉 https://dccsitc.org/join\n\nMembers who are **not yet added to the Messenger group** are requested to contact us via our **Facebook Page** or **WhatsApp** at:\n+8801630087488\n\n**Issued by:**\nDhaka Commerce College Science & IT Club (DCCSITC)",
+      "date": "December 10, 2025",
+      "isPinned": false,
+      "category": "Notice"
+    },
+    {
+      "id": 5,
+      "slug": "orientation-programme-hsc-27",
+      "title": "Orientation Programme for HSC 27",
+      "summary": "Official notice regarding the Orientation Programme of DCCSITC.",
+      "content": "The Dhaka Commerce College Science & IT Club is pleased to announce that the **Orientation Programme for HSC 27** will be held as per the schedule below.\n\n**Date & Time:**\n30 November 2025 (Sunday), 12:00 PM\n\n**Venue:**\nConference Room, 11th Floor,\nProf. Kazi Faruky Building\n\nAll members are requested to be present on time.\n\nFor assistance:\n+8801630087488 (Call or WhatsApp)\n\n— **DCCSITC**",
+      "date": "November 30, 2025",
+      "isPinned": true,
+      "category": "Notice"
+    },
+    {
+      "id": 6,
+      "slug": "orientation-pre-announcement",
+      "title": "Pre-Announcement: Orientation Programme",
+      "summary": "Advance notice regarding the upcoming orientation programme.",
+      "content": "This is to inform all members that the **Orientation Programme for new members** of the Dhaka Commerce College Science & IT Club will be held on **30 November 2025 (Sunday)**.\n\nDetailed information will be shared soon.\n\nPlease note that **no other official or unofficial online or offline meetings** will be held prior to the orientation programme.\n\nWe look forward to meeting everyone on the scheduled date.\n\n**Issued by:**\nMd. Shamiul Alam\nModerator\nDhaka Commerce College Science & IT Club\n\nContact: 01761-869883",
+      "date": "November 25, 2025",
+      "isPinned": false,
+      "category": "Announcement"
+    },
+    {
+      "id": 7,
+      "slug": "segment-group-notice",
+      "title": "Notice Regarding Segment Group Enrollment",
+      "summary": "Instructions for joining respective segment groups.",
+      "content": "All members are requested to contact the respective **segment mentors** to be added to the official segment groups.\n\n**Segment Contacts:**\n- **Robotics:** Shefat\n- **Project Display:** Wesley\n- **Wall Magazine:** Noboni\n- **Scrapbook:** Arsheel\n- **Olympiad:** Sara\n- **Programming:** Shefat\n\nMembers are advised to complete this at their earliest convenience.\n\n**Issued by:**\nAtaullah Sharukhi Rumman\nSub-Executive, DCCSITC",
+      "date": "November 22, 2025",
+      "isPinned": false,
+      "category": "Notice"
+    },
+    {
+      "id": 8,
+      "slug": "welcome-new-members",
+      "title": "Welcome Note for New Members",
+      "summary": "Official welcome message and segment overview for new members.",
+      "content": "The Dhaka Commerce College Science & IT Club warmly welcomes all newly inducted members.\n\nClub activities for this session will commence soon. All official updates and notices will be shared through **WhatsApp** and **Discord**.\n\n**Available Segments:**\n- **Wall Magazine:** Science & technology articles, innovations, and creative STEM content\n- **Scrapbook:** Project summaries, research work, and scientific documentation\n- **Robotics:** Robot design, development, and competitions\n- **Programming:** Coding sessions, problem-solving, and projects\n\n**Discord Server:**\nhttps://discord.gg/GD7Hqv2vn4\n\nWe look forward to an engaging and productive session.\n\n**Issued by:**\nSaif Islam\nGeneral Secretary, DCCSITC",
+      "date": "November 18, 2025",
+      "isPinned": false,
       "category": "Notice"
     }
   ]

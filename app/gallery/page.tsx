@@ -73,7 +73,7 @@ export default function Gallery() {
   return (
     <main className="min-h-screen bg-background">
       <Header />
-      <section className="py-20 bg-gradient-to-b from-card/30 to-background">
+      <section className="py-10 lg:py-50 md:py-35 sm:py-20 bg-gradient-to-b from-card/30 to-background">
 
      
         <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-20 text-center">
