@@ -38,7 +38,7 @@ const projects = [
     color: "text-green-400",
   },
   {
-    title: "Olympoad",
+    title: "Olympiad",
     description: "Preparing students for competitive science and math challenges through practice, strategy, and problem-solving.",
     icon: Award,
     color: "text-pink-400",
